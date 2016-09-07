@@ -1,0 +1,1 @@
+# wse-plugin-transcodertimedsnapshot
