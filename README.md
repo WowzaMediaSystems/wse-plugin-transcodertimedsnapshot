@@ -4,6 +4,8 @@ The **TranscoderTimedSnapshot** module for [Wowza Streaming Engine™ media serv
 ## Prerequisites
 Wowza Streaming Engine 4.0.0 or later is required.
 
+Wowza Transcoder must be enabled in the Wowza Streaming Engine application.
+
 ## Usage
 Specify the stream(s) you'd like to take snapshots of through the associated properties.  
 
